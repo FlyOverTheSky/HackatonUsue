@@ -1,2 +1,2 @@
 # HackatonUsue
-api for hackcaton usue 2024
+ПОБЕДИТЕЛЬ ХАКАТОНА 2024 СОВМЕСТНО С УБРИР (он крутой!)
